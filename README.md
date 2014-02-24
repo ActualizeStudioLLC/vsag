@@ -1,4 +1,0 @@
-vsag
-====
-
-mobile app
